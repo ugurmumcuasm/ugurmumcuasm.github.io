@@ -14,7 +14,7 @@ var docList = [
     {
         "Birim":"34.25.002",
         "Doktor":"DR.HAMİT EKŞİM",
-        "ASÇ":"HEM.EMİNE MEHTAP ERKEK",
+        "ASÇ":"EMİNE MEHTAP ERKEK",
         "Mesai":{
                 "Pazartesi":["09-12","12-13","13-18","-"],
                 "Salı":["08-12","12-13","13-17","-"],
