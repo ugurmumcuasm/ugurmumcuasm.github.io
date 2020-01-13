@@ -526,3 +526,6 @@ footer
         font-size: 24px;
     }
 }
+.docTable thead th,tr{
+    text-align: center;
+}
