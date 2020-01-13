@@ -1,7 +1,7 @@
 var docList = [
     {
         "Birim":"34.25.001",
-        "Aile Hekimi":"Dr.DENİZ DEVRİM DEDE",
+        "Doktor":"Dr.DENİZ DEVRİM DEDE",
         "ASÇ":"NURGÜL ASLAN",
         "Mesai":{
                 "Pazartesi":["08-12","12-13","13-17","01-01"],
@@ -13,7 +13,7 @@ var docList = [
     },
     {
         "Birim":"34.25.002",
-        "Aile Hekimi":"DR.HAMİT EKŞİM",
+        "Doktor":"DR.HAMİT EKŞİM",
         "ASÇ":"HEM.EMİNE MEHTAP ERKEK",
         "Mesai":{
                 "Pazartesi":["09-12","12-13","13-18","01-01"],
@@ -25,7 +25,7 @@ var docList = [
     },
     {
         "Birim":"34.25.003",
-        "Aile Hekimi":"DR.RAHİME ERBAŞ",
+        "Doktor":"DR.RAHİME ERBAŞ",
         "ASÇ":"GÜLBAHAR  GÜNAYDIN",
         "Mesai":{
                 "Pazartesi":["08-12","12-13"," ","13-17"],
@@ -37,7 +37,7 @@ var docList = [
     },
     {
         "Birim":"34.25.004",
-        "Aile Hekimi":"DR.ABDULLAH AKIN",
+        "Doktor":"DR.ABDULLAH AKIN",
         "ASÇ":"AYŞE HALAÇ TUNÇ",
         "Mesai":{
                 "Pazartesi":["01-01","01-01","01-01","01-01"],
@@ -49,7 +49,7 @@ var docList = [
     },
     {
         "Birim":"34.25.005",
-        "Aile Hekimi":"DR.BEDİR VARGÜN",
+        "Doktor":"DR.BEDİR VARGÜN",
         "ASÇ":"ZEYNEP NİŞANCI",
         "Mesai":{
                 "Pazartesi":["01-01","01-01","01-01","01-01"],
@@ -61,7 +61,7 @@ var docList = [
     },
     {
         "Birim":"34.25.006",
-        "Aile Hekimi":"UZM.DR.TUBA KARATAŞ İMAL",
+        "Doktor":"UZM.DR.TUBA KARATAŞ İMAL",
         "ASÇ":"LEYLA YURTTAŞ",
         "Mesai":{
                 "Pazartesi":["01-01","01-01","01-01","01-01"],
@@ -73,7 +73,7 @@ var docList = [
     },
     {
         "Birim":"34.25.007",
-        "Aile Hekimi":"UZM.AH.ŞÜKRAN EMMUNGİL NALBANT",
+        "Doktor":"UZM.AH.ŞÜKRAN EMMUNGİL NALBANT",
         "ASÇ":"EMEL BOLAT",
         "Mesai":{
                 "Pazartesi":["01-01","01-01","01-01","01-01"],
@@ -85,7 +85,7 @@ var docList = [
     },
     {
         "Birim":"34.25.008",
-        "Aile Hekimi":"UZM.DR.NAZİKE ÇAMLIYER",
+        "Doktor":"UZM.DR.NAZİKE ÇAMLIYER",
         "ASÇ":"SEMİHA AY",
         "Mesai":{
                 "Pazartesi":["01-01","01-01","01-01","01-01"],
@@ -97,7 +97,7 @@ var docList = [
     },
     {
         "Birim":"34.25.009",
-        "Aile Hekimi":"DR.ŞAHİN BAL",
+        "Doktor":"DR.ŞAHİN BAL",
         "ASÇ":"BAHAR  TANIRKAN",
         "Mesai":{
                 "Pazartesi":["01-01","01-01","01-01","01-01"],
@@ -109,7 +109,7 @@ var docList = [
     },
     {
         "Birim":"34.25.010",
-        "Aile Hekimi":"DR.İLHAMİ P.DİNÇ",
+        "Doktor":"DR.İLHAMİ P.DİNÇ",
         "ASÇ":"YELİZ DEMİRŞEN",
         "Mesai":{
                 "Pazartesi":["01-01","01-01","01-01","01-01"],
@@ -121,7 +121,7 @@ var docList = [
     },
     {
         "Birim":"34.25.011",
-        "Aile Hekimi":"DR.KADİR ŞİMŞEK",
+        "Doktor":"DR.KADİR ŞİMŞEK",
         "ASÇ":"VEDA BEKTAŞ",
         "Mesai":{
                 "Pazartesi":["01-01","01-01","01-01","01-01"],
