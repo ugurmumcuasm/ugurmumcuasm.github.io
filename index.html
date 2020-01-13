@@ -146,23 +146,23 @@
         var singleDoc = '<div class="col-md-4 col-sm-4 col-xs-4 docDiv"><div class="thumbnail"><div class="caption"><ul style="padding: 0px;"><li>Birim: ' + element.Birim;
         singleDoc += '</li><li>Aile Hekimi : ' + element.Doktor;
         singleDoc += '</li><li>ASÇ : ' + element.ASÇ;
-        singleDoc += '</li></ul><table class="docTable" style="margin: 8px 0px 0px;" border="1"><thead><th></th><th>Kurum İçi</th><th>Öğle Arası</th><th>Kurum İçi</th><th>Kurum Dışı</th></thead><tbody><tr><td>Pazartesi</td>';
+        singleDoc += '</li></ul><table class="docTable" style="margin: 8px 0px 0px;" border="1"><thead><th></th><th>Kurum İçi</th><th>Öğle Arası</th><th>Kurum İçi</th><th>Kurum Dışı</th></thead><tbody><tr><th>Pazartesi</th>';
         element.Mesai.Pazartesi.forEach(k=> {
             singleDoc += '<td>'+ k +'</td>';
         });
-        singleDoc += '</tr><tr><td>Salı</td>';
+        singleDoc += '</tr><tr><th>Salı</th>';
         element.Mesai.Salı.forEach(k=> {
             singleDoc += '<td>'+ k +'</td>';
         });
-        singleDoc += '</tr><tr><td>Çarşamba</td>';
+        singleDoc += '</tr><tr><th>Çarşamba</th>';
         element.Mesai.Çarşamba.forEach(k=> {
             singleDoc += '<td>'+ k +'</td>';
         });
-        singleDoc += '</tr><tr><td>Perşembe</td>';
+        singleDoc += '</tr><tr><th>Perşembe</th>';
         element.Mesai.Perşembe.forEach(k=> {
             singleDoc += '<td>'+ k +'</td>';
         });
-        singleDoc += '</tr><tr><td>Cuma</td>';
+        singleDoc += '</tr><tr><th>Cuma</th>';
         element.Mesai.Cuma.forEach(k=> {
             singleDoc += '<td>'+ k +'</td>';
         });
