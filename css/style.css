@@ -529,3 +529,10 @@ footer
 .docTable thead th,tr{
     text-align: center;
 }
+.docDiv{
+    height: 367px;
+    margin-bottom: 20px;
+}
+.topDocDetail{
+    height: 100px;
+}
