@@ -1,0 +1,26 @@
+var duyuru = [
+    {
+        "Başlık":"basşılk",
+        "Açıklama":"açıklams"
+    },
+    {
+        "Başlık":"basşılk",
+        "Açıklama":"açıklams"
+    },
+    {
+        "Başlık":"basşılk",
+        "Açıklama":"açıklams"
+    },
+    {
+        "Başlık":"basşılk",
+        "Açıklama":"açıklams"
+    },
+    {
+        "Başlık":"basşılk",
+        "Açıklama":"açıklams"
+    },
+    {
+        "Başlık":"basşılk",
+        "Açıklama":"açıklams"
+    }
+]
