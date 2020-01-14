@@ -73,7 +73,7 @@ var docList = [
     },
     {
         "Birim":"34.25.007",
-        "Doktor":"UZM.AH.ŞÜKRAN EMMUNGİL NALBANT",
+        "Doktor":"UZM.DR.ŞÜKRAN EMMUNGİL NALBANT",
         "ASÇ":"EMEL BOLAT",
         "Mesai":{
                 "Pazartesi":["08-12","12-13","13-17","-"],
