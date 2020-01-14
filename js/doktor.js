@@ -136,12 +136,37 @@ var docList = [
 
 
 var personelList = [
+    
+    {
+        "Gorev":"ATT",
+        "Ad" : "SİBEL YILDIRIM"
+    },
+    {
+        "Gorev":"Hemşire",
+        "Ad" : "ZERRİN ÖZİŞLER"
+    },
+    {
+        "Gorev":"Hemşire",
+        "Ad" : "NİMET KAYA"
+    },
+    {
+        "Gorev":"Hemşire",
+        "Ad" : "HİLAL İPEK"
+    },
     { 
         "Gorev":"Tıbbi Sekreter",
-        "Ad" : "Pınar Üstün"
+        "Ad" : "PINAR ÜSTÜN"
     },
     {
         "Gorev":"Tıbbi Sekreter",
-        "Ad" : "Pınar Üstün"
+        "Ad" : "BELMA KORKMAZ"
+    },
+    {
+        "Gorev":"Temizlik Personeli",
+        "Ad" : "AYTEN GÖZE"
+    },
+    {
+        "Gorev":"Temizlik Personeli",
+        "Ad" : "İLKNUR GÜNEŞ"
     }
 ]
