@@ -132,3 +132,16 @@ var docList = [
         }
     }
 ]
+
+
+
+var personelList = [
+    { 
+        "Gorev":"Tıbbi Sekreter",
+        "Ad" : "Pınar Üstün"
+    },
+    {
+        "Gorev":"Tıbbi Sekreter",
+        "Ad" : "Pınar Üstün"
+    }
+]
