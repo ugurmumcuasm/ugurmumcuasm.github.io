@@ -1,26 +1,26 @@
 var duyuru = [
     {
-        "Başlık":"basşılk",
-        "Açıklama":"açıklams"
+        "Başlık":"DUYURU BAŞLIĞI",
+        "Açıklama":"Açıklama,içeriği"
     },
     {
-        "Başlık":"basşılk",
-        "Açıklama":"açıklams"
+        "Başlık":"DUYURU BAŞLIĞI",
+        "Açıklama":"Açıklama,içeriği"
     },
     {
-        "Başlık":"basşılk",
-        "Açıklama":"açıklams"
+        "Başlık":"DUYURU BAŞLIĞI",
+        "Açıklama":"Açıklama,içeriği"
     },
     {
-        "Başlık":"basşılk",
-        "Açıklama":"açıklams"
+        "Başlık":"DUYURU BAŞLIĞI",
+        "Açıklama":"Açıklama,içeriği"
     },
     {
-        "Başlık":"basşılk",
-        "Açıklama":"açıklams"
+        "Başlık":"DUYURU BAŞLIĞI",
+        "Açıklama":"Açıklama,içeriği"
     },
     {
-        "Başlık":"basşılk",
-        "Açıklama":"açıklams"
+        "Başlık":"DUYURU BAŞLIĞI",
+        "Açıklama":"Açıklama,içeriği"
     }
 ]
