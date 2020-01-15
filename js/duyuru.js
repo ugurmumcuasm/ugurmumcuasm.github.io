@@ -28,8 +28,8 @@ var duyuru = [
         "Açıklama":`KAN ALIMI HAFTANIN HER GÜNÜ 08:30-10:00 SAATLERİ ARASINDA YAPILMAKTADIR.SONUÇLAR 1(BİR) GÜN SONRA ÇIKMAKTADIR.`
     },
     {
-        "Başlık":"DUYURU BAŞLIĞI",
-        "Açıklama":`UĞUR MUMCU ASM  EMZİRME POLİTİKAMIZ
+        "Başlık":"UĞUR MUMCU ASM  EMZİRME POLİTİKAMIZ",
+        "Açıklama":`
 </br>1.Aile Sağlığı Merkezimizde anne sütünün önemi, emzirmenin anne ve bebek sağlığı yönünden yararları ve tüm annelerin emzirmeye teşvik edilmesi amacıyla yazılı bir emzirme politikası oluşturulmuştur. Kurumumuz çalışanları tarafından bu politikanın uygulanmasının sürekliliği sağlanmaktadır.
 </br>2. Aile Sağlığı Merkezimizde çalışanlarımız anne sütü ve emzirme konularında eğitim almıştır. Bu eğitimler belli aralıklarda güncellenmektedir.
 </br>3.Kurumumuza başvuran ve ev gezilerinde tespit edilen tüm gebelere anne sütü ve emzirme ile ilgili eğitimler yapılmaktadır.
