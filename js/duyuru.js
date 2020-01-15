@@ -5,7 +5,7 @@ var duyuru = [
     },
     {
         "Başlık":"KANSER TARAMASI",
-        "Açıklama":`30-65 YAŞ ARASI BAYAN HASTALARA RAHİM AĞZI KANSER TARAMASI TESTİ YAPILMAKTADIR.15-49 YAŞ ARASI KADIN İZLEMLERİ YAPILMAKTADIR.50-70 YAŞ ARASI TÜM HASTALARA GAİTADA (DIŞKIDA) GİZLİ KAN ARANMASI TESTİ YAPILMAKTADIR.30-65 YAŞ ARASI BAYAN HASTALARA SMEAR TESTİ YAPILMAKTADIR.
+        "Açıklama":`30-65 YAŞ ARASI BAYAN HASTALARA RAHİM AĞZI KANSER TARAMASI TESTİ YAPILMAKTADIR.</br>15-49 YAŞ ARASI KADIN İZLEMLERİ YAPILMAKTADIR.</br>50-70 YAŞ ARASI TÜM HASTALARA GAİTADA (DIŞKIDA) GİZLİ KAN ARANMASI TESTİ YAPILMAKTADIR.</br>30-65 YAŞ ARASI BAYAN HASTALARA SMEAR TESTİ YAPILMAKTADIR.
 15-49 YAŞ ARASI KADIN İZLEMLERİ YAPILMAKTADIR.`
     },
     {
@@ -44,6 +44,19 @@ var duyuru = [
 12.Kurumumuzdan hizmet alırken yararlanabileceğiniz, emzirme bölümümüz bulunmaktadır.`
     },
     {
+        "Başlık":"ERİŞKİN AŞILAMA",
+        "Açıklama":"65 YAŞ ÜSTÜ TÜM HASTALARA VE 65 YAŞ ALTI OLUP KOAH, DİYABET HASTALIĞI, KANSER TEDAVİSİ GÖREN HASTALARA AİLE HEKİMLERİNCE KPA-13 (ZATÜRRE AŞISI) UYGULANMAKTADIR.KONUYLA İLGİLİ OLARAK AİLE HEKİMİNİZE VEYA HEMŞİRENİZE BAŞ VURABİLİRSİNİZ."
+    },
+    {
+        "Başlık":"DUYURU BAŞLIĞI",
+        "Açıklama":"Açıklama,içeriği"
+    },{
+        "Başlık":"DUYURU BAŞLIĞI",
+        "Açıklama":"Açıklama,içeriği"
+    },{
+        "Başlık":"DUYURU BAŞLIĞI",
+        "Açıklama":"Açıklama,içeriği"
+    },{
         "Başlık":"DUYURU BAŞLIĞI",
         "Açıklama":"Açıklama,içeriği"
     }
