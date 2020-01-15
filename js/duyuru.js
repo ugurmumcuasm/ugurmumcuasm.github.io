@@ -5,11 +5,11 @@ var duyuru = [
     },
     {
         "Başlık":"KANSER TARAMASI",
-        "Açıklama":`30-65 YAŞ ARASI BAYAN HASTALARA RAHİM AĞZI KANSER TARAMASI TESTİ YAPILMAKTADIR.15-49 YAŞ ARASI KADIN İZLEMLERİ YAPILMAKTADIR.50-70 YAŞ ARASI TÜM HASTALARA GAİTADA (DIŞKIDA) GİZLİ KAN ARANMASI VE İDRAR TESTİ YAPILMAKTADIR.`
+        "Açıklama":`30-65 YAŞ ARASI BAYAN HASTALARA RAHİM AĞZI KANSER TARAMASI TESTİ YAPILMAKTADIR.15-49 YAŞ ARASI KADIN İZLEMLERİ YAPILMAKTADIR.50-70 YAŞ ARASI TÜM HASTALARA GAİTADA (DIŞKIDA) GİZLİ KAN ARANMASI TESTİ YAPILMAKTADIR.`
     },
     {
         "Başlık":"BEBEK DOSTU",
-        "Açıklama":`Uğur Mumcu Aile Sağlığı Merkezi olarak BEBEK DOSTU olmaya adayız.
+        "Açıklama":`Uğur Mumcu Aile Sağlığı Merkezi olarak BEBEK DOSTU dur.
         </br>* Anneler bebeklerini ilk 6 ay sadece anne sütü ile beslemelidirler!
         </br>* Anne sütü bebekle anne arasında özel sevgi bağı kurulmasını sağlar!
         </br>* Anne sütü alan bebekler diğer besinlerle beslenen bebeklerden daha zeki olurlar!
