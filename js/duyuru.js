@@ -29,7 +29,19 @@ var duyuru = [
     },
     {
         "Başlık":"DUYURU BAŞLIĞI",
-        "Açıklama":`Açıklama,içeriği`
+        "Açıklama":`UĞUR MUMCU ASM  EMZİRME POLİTİKAMIZ
+1.Aile Sağlığı Merkezimizde anne sütünün önemi, emzirmenin anne ve bebek sağlığı yönünden yararları ve tüm annelerin emzirmeye teşvik edilmesi amacıyla yazılı bir emzirme politikası oluşturulmuştur. Kurumumuz çalışanları tarafından bu politikanın uygulanmasının sürekliliği sağlanmaktadır.
+2. Aile Sağlığı Merkezimizde çalışanlarımız anne sütü ve emzirme konularında eğitim almıştır. Bu eğitimler belli aralıklarda güncellenmektedir.
+3.Kurumumuza başvuran ve ev gezilerinde tespit edilen tüm gebelere anne sütü ve emzirme ile ilgili eğitimler yapılmaktadır.
+4.Doğumdan hemen sonra , bebeğe hiçbir besin verilmeksizin, bebeğin memeye tutulması ve emzirmenin başlatılması ve ilk 6 ay sadece anne sütü verilmesi altıncı ayın bitiminden sonra  ek gıdalarla birlikte iki yaşa kadar anne sütü verilmesine devam edilmesi konusunda anneler desteklenmelidir.
+5.Lohusalık döneminde tüm annelere, anne sütü ve emzirmenin yararları, doğru emzirme teknikleri, emzirmenin sürdürülmesi, sütün sağılması ve saklaması, sağılmış sütün bebeklere verilmesi  vb. konularda bilgi verilmektedir.
+6.Kurumumuzda emzirme sıklığı ve süresi konusunda herhangi bir kısıtlanma uygulanmaz. Emzirmenin bebeğin isteğine bağlı olduğu, gündüz ve gece devam etmesi gerektiği ve bebek her istediğinde emzirilmesinin yararları anneye aktarılmaktadır.
+7.Tıbbi zorunluluk olmadığı sürece bebeklere ilk 6 aya sadece anne sütü verilmelidir. 6 aydan sonra ek gıdalarla birlikte 2 yaşına kadar anne sütü verilmesi tavsiye edilmektedir.
+8.Emzirmenin desteklenmesi ve sürdürülmesi konularında bölgemizdeki diğer kurum , kuruluş, dernek, merkez, okul, sağlık kurumları vb. ile  işbirliği yapılarak ortak etkinlikler düzenlenmektedir.
+9.Kurumumuzun her sahasında Uluslararası mama kodu uygulamaları benimsenmekte ve uygulanmaktadır. 
+10.Kurumumuzda anne sütü dışında muadil materyalin reklamlarına ilişkin poster, afiş ve numunelerinin bulunmasına ve kullanımına izin verilmemektedir.
+11.Daha zeki ve sağlıklı nesillere sahip olabilmek için anne sütünün önemi her aşamada vurgulanmaktadır.
+12.Kurumumuzdan hizmet alırken yararlanabileceğiniz, emzirme bölümümüz bulunmaktadır.`
     },
     {
         "Başlık":"DUYURU BAŞLIĞI",
