@@ -49,7 +49,7 @@ var duyuru = [
     }
     },
     {
-        "Başlık":"ERİŞKİN AŞILAMA",
+        "Başlık":"GÜNCEL CORONAVİRÜS COVID19 BİLGİLENDİRME",
         "Açıklama":`https://hsgm.saglik.gov.tr/tr/covid19`
     }
 ]
