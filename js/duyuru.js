@@ -49,7 +49,7 @@ var duyuru = [
     },
     {
         "Başlık":"GÜNCEL CORONAVİRÜS COVID19 BİLGİLENDİRME",
-        "Açıklama":<a href="https://hsgm.saglik.gov.tr/tr/covid19" target="_blank">SAĞLIK BAKANLIĞI HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜNÜN GÜNCEL CORONAVİRÜS COVID19 BİLGİLERİNE ULAŞMAK İÇİN TIKLAYINIZ</a>
+        "Açıklama":`<a href="https://hsgm.saglik.gov.tr/tr/covid19" target="_blank">SAĞLIK BAKANLIĞI HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜNÜN GÜNCEL CORONAVİRÜS COVID19 BİLGİLERİNE ULAŞMAK İÇİN TIKLAYINIZ</a>`
     }
     
 ]
