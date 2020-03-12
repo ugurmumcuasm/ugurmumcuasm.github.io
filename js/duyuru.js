@@ -45,8 +45,11 @@ var duyuru = [
     {
         "Başlık":"ERİŞKİN AŞILAMA",
         "Açıklama":"65 YAŞ ÜSTÜ TÜM HASTALARA VE 65 YAŞ ALTI OLUP KOAH, DİYABET HASTALIĞI, KANSER TEDAVİSİ GÖREN HASTALARA AİLE HEKİMLERİNCE KPA-13 (ZATÜRRE AŞISI) UYGULANMAKTADIR.KONUYLA İLGİLİ OLARAK AİLE HEKİMİNİZE VEYA HEMŞİRENİZE BAŞ VURABİLİRSİNİZ."
-    },"Başlık":"CORONAVİRÜS (COVID19) GÜNCEL BİLGİLERİ",
-        "Açıklama":"https://hsgm.saglik.gov.tr/tr/covid19"
+   
     }
-     
+    },
+    {
+        "Başlık":"ERİŞKİN AŞILAMA",
+        "Açıklama":`https://hsgm.saglik.gov.tr/tr/covid19`
+    }
 ]
