@@ -53,7 +53,7 @@ var duyuru = [
     },
     {
         "Başlık":"Günlük COVID-19 Vaka Sayıları",
-        "Açıklama":`<a href="https://covid19bilgi.saglik.gov.tr/tr/gunluk-vaka" target="_blank">SAĞLIK BAKANLIĞI Günlük Vaka Sayıları BİLGİLERİNE ULAŞMAK İÇİN TIKLAYINIZ</a>`
+        "Açıklama":`<a href="https://covid19.saglik.gov.tr" target="_blank">SAĞLIK BAKANLIĞI Günlük Vaka Sayıları BİLGİLERİNE ULAŞMAK İÇİN TIKLAYINIZ</a>`
     }
     
 ]
