@@ -143,7 +143,7 @@ var  personelList  =  [
     } ,
     {
         "Gorev" : "Hemşire" ,
-        "İlan" : "ZERRİN ÖZİŞLER"
+        "Ad" : "ZERRİN ÖZİŞLER"
     } ,
     {
         "Gorev" : "Hemşire" ,
