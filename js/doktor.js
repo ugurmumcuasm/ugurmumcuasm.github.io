@@ -139,7 +139,7 @@ var  personelList  =  [
     
     {
         "Gorev" : "ATT" ,
-        "Reklam" : "SİBEL YILDIRIM"
+        "Ad" : "SİBEL YILDIRIM"
     } ,
     {
         "Gorev" : "Hemşire" ,
@@ -147,26 +147,26 @@ var  personelList  =  [
     } ,
     {
         "Gorev" : "Hemşire" ,
-        "Reklam" : "NİMET KAYA"
+        "Ad" : "NİMET KAYA"
     } ,
     {
         "Gorev" : "Hemşire" ,
-        "Reklam" : "HİLAL İPEK"
+        "Ad" : "HİLAL İPEK"
     } ,
     { 
         "Gorev" : "Tıbbi Sekreter" ,
-        "Reklam" : "PINAR ÜSTÜN"
+        "Ad" : "PINAR ÜSTÜN"
     } ,
     {
         "Gorev" : "Temizlik Personeli" ,
-        "Reklam" : "BELMA KORKMAZ"
+        "Ad" : "BELMA KORKMAZ"
     } ,
     {
         "Gorev" : "Temizlik Personeli" ,
-        "Reklam" : "AYTEN GÖZE"
+        "Ad" : "AYTEN GÖZE"
     } ,
     {
         "Gorev" : "Temizlik Personeli" ,
-        "Reklam" : "İLKNUR GÜNEŞ"
+        "Ad" : "İLKNUR GÜNEŞ"
     }
 ]
