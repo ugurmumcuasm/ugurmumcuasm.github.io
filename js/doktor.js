@@ -147,7 +147,7 @@ var  personelList  =  [
     } ,
     {
         "Gorev" : "Hemşire" ,
-        "Ad" : "NİMET KAYA"
+        "Ad" : "YILDIZ BULUT"
     } ,
     {
         "Gorev" : "Hemşire" ,
