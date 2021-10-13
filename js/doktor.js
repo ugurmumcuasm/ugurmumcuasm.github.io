@@ -1,8 +1,8 @@
 var  docList  =  [
     {
         "Birim" : "34.25.001" ,
-        "Doktor" : "Dr.DENİZ DEVRİM DEDE" ,
-        "ASÇ" : "NURTEN GÜNER" ,
+        "Doktor" : "Dr.ŞAHİN DEMİRAL" ,
+        "ASÇ" : "NURTEN GÜNEL" ,
         "Mesai" : {
                 "Pazartesi" : [ "08-12" , "12-13" , "13-17" , "-" ] ,
                 "Salı" : [ "08-12" , "12-13" , "-" , "13-17" ] ,
@@ -151,7 +151,7 @@ var  personelList  =  [
     } ,
     {
         "Gorev" : "Hemşire" ,
-        "Ad" : "HİLAL İPEK"
+        "Ad" : "TUĞÇE ŞAHİN"
     } ,
     { 
         "Gorev" : "Tıbbi Sekreter" ,
