@@ -150,7 +150,7 @@ var  personelList  =  [
         "Ad" : "YILDIZ BULUT"
     } ,
     {
-        "Gorev" : "Hemşire" ,
+        "Gorev" : "Paramedik" ,
         "Ad" : "TUĞÇE ŞAHİN"
     } ,
     { 
