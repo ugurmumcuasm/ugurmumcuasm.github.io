@@ -147,7 +147,7 @@ var  personelList  =  [
     } ,
     {
         "Gorev" : "Hemşire" ,
-        "Ad" : "YILDIZ BULUT"
+        "Ad" : "ÖZGE YAĞMUR DEMİR"
     } ,
     {
         "Gorev" : "Paramedik" ,
@@ -167,6 +167,6 @@ var  personelList  =  [
     } ,
     {
         "Gorev" : "Temizlik Personeli" ,
-        "Ad" : "İLKNUR GÜNEŞ"
+        "Ad" : "BAYSABAH AK"
     }
 ]
