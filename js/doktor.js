@@ -110,7 +110,7 @@ var  docList  =  [
     {
         "Birim" : "34.25.010" ,
         "Doktor" : "DR.İLHAMİ P.DİNÇ" ,
-        "ASÇ" : "YELİZ DEMİRŞEN" ,
+        "ASÇ" : "HATİCE YALÇIN" ,
         "Mesai" : {
                 "Pazartesi" : [ "07-12" , "12-13" , "13-16" , "-" ] ,
                 "Salı" : [ "08-12" , "12-13" , "-" , "13-17" ] ,
