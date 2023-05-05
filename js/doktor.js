@@ -97,7 +97,7 @@ var  docList  =  [
     } ,
     {
         "Birim" : "34.25.009" ,
-        "Doktor" : "DR.ŞAHİN BAL" ,
+        "Doktor" : "DR.ATİLLA YALÇİN" ,
         "ASÇ" : "BAHAR TANIRKAN" ,
         "Mesai" : {
                 "Pazartesi" : [ "08-13" , "13-14" , "14-17" , "-" ] ,
