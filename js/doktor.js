@@ -86,7 +86,7 @@ var  docList  =  [
     {
         "Birim" : "34.25.008" ,
         "Doktor" : "UZM.DR.NAZİKE ÇAMLIYER" ,
-        "ASÇ" : "SEMİHA AY" ,
+        "ASÇ" : "ÖZLEM ŞENEL" ,
         "Mesai" : {
                 "Pazartesi" : [ "08-12" , "12-13" , "-" , "13-17" ] ,
                 "Salı" : [ "08-13" , "13-14" , "14-17" , "-" ] ,
