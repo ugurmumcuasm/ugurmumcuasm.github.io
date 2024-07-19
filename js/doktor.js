@@ -122,7 +122,7 @@ var  docList  =  [
     {
         "Birim" : "34.25.011" ,
         "Doktor" : "DR.KADİR ŞİMŞEK" ,
-        "ASÇ" : "VEDA BEKTAŞ" ,
+        "ASÇ" : " " ,
         "Mesai" : {
                 "Pazartesi" : [ "08-13" , "13-14" , "14-17" , "-" ] ,
                 "Salı" : [ "08-13" , "13-14" , "14-17" , "-" ] ,
