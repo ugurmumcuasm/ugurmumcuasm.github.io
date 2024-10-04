@@ -122,7 +122,7 @@ var  docList  =  [
     {
         "Birim" : "34.25.011" ,
         "Doktor" : "DR.KADİR ŞİMŞEK" ,
-        "ASÇ" : " " ,
+        "ASÇ" : "FATMA KUNAK" ,
         "Mesai" : {
                 "Pazartesi" : [ "08-13" , "13-14" , "14-17" , "-" ] ,
                 "Salı" : [ "08-13" , "13-14" , "14-17" , "-" ] ,
@@ -151,7 +151,7 @@ var  personelList  =  [
     } ,
     {
         "Gorev" : "Hemşire" ,
-        "Ad" : "GÜLNAZ KARA"
+        "Ad" : "CEYDA TEMÜR"
     } ,
     { 
         "Gorev" : "Tıbbi Sekreter" ,
@@ -159,7 +159,7 @@ var  personelList  =  [
     } ,
     {
         "Gorev" : "Temizlik Personeli" ,
-        "Ad" : "BELMA KORKMAZ"
+        "Ad" : "BURCU AÇIKGÖZ"
     } ,
     {
         "Gorev" : "Temizlik Personeli" ,
