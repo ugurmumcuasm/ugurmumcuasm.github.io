@@ -159,7 +159,7 @@ var  personelList  =  [
     } ,
     {
         "Gorev" : "Temizlik Personeli" ,
-        "Ad" : "BURCU AÇIKGÖZ"
+        "Ad" : "TUĞBA ATEŞ"
     } ,
     {
         "Gorev" : "Temizlik Personeli" ,
