@@ -55,5 +55,5 @@ var duyuru = [
         "Başlık":"Günlük COVID-19 Vaka Sayıları",
         "Açıklama":`<a href="https://covid19.saglik.gov.tr" target="_blank">SAĞLIK BAKANLIĞI Günlük Vaka Sayıları BİLGİLERİNE ULAŞMAK İÇİN TIKLAYINIZ</a>`
     }
-    
+    DR.TUBA KARATAŞ İMAL SÜT İZNİ ÇALIŞMA SAATLERİ PAZARTESİ 08:00-15:30, SALI 07:00-14:30,ÇARŞAMBA 08:00-15:30,PERŞEMBE 09:30-17:00,CUMA 08:00-15:30
 ]
