@@ -23,7 +23,7 @@ duyuru = [
         </br>        6 aydan sonra uygun ek gıdalar başlayarak 2 yaşına kadar emzirmeye devam ediniz.`
     },
     {
-        "Başlık":"DUYURU BAŞLIĞI",
+        "Başlık":"KAN ALIMI",
         "Açıklama":`KAN ALIMI HAFTANIN HER GÜNÜ 08:30-10:00 SAATLERİ ARASINDA RANDEVU ALINARAK YAPILMAKTADIR.SONUÇLAR 1(BİR) GÜN SONRA ÇIKMAKTADIR.`
     },
     {
