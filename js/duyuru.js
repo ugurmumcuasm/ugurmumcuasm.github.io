@@ -1,6 +1,5 @@
-duyuru = [duyuru = [
-    { `
-    PINAR ERDOĞAN`
+duyuru = [
+    { 
         "Başlık":"RANDEVU BİLGİLENDİRME",
         "Açıklama":`AİLE HEKİMİ MUAYENELERİNİZ İÇİN 182'DEN YADA İNTERNET ÜZERİNDEN MERKEZİ HEKİM RANDEVU SİSTEMİ(MHRS)'DEN AYNI GÜN RANDEVU ALABİLİRSİNİZ.RANDEVUSUZ HASTALARA SABAH SAAT 10:00-12:00 VE ÖĞLENDEN SONRA 15:00-16:00 SAATLERİ ARASINDA BAKILMAKTADIR.`
     },
@@ -51,8 +50,5 @@ duyuru = [duyuru = [
     {
         "Başlık":"GÜNCEL CORONAVİRÜS COVID19 BİLGİLENDİRME",
         "Açıklama":`<a href="https://hsgm.saglik.gov.tr/tr/covid19" target="_blank">SAĞLIK BAKANLIĞI HALK SAĞLIĞI GENEL MÜDÜRLÜĞÜNÜN GÜNCEL CORONAVİRÜS COVID19 BİLGİLERİNE ULAŞMAK İÇİN TIKLAYINIZ</a>`
-    },
-    {
     }
-
 ]
