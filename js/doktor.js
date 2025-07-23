@@ -151,15 +151,15 @@ var  personelList  =  [
     } ,
     {
         "Gorev" : "Hemşire" ,
-        "Ad" : "CEYDA TEMÜR"
+        "Ad" : "GÜLNAZ KARA"
     } ,
     { 
         "Gorev" : "Tıbbi Sekreter" ,
-        "Ad" : "PINAR ÜSTÜN"
+        "Ad" : "PINAR ERDOĞAN"
     } ,
     {
         "Gorev" : "Temizlik Personeli" ,
-        "Ad" : "TUĞBA ATEŞ"
+        "Ad" : "BELMA YAMEN KORKMAZ"
     } ,
     {
         "Gorev" : "Temizlik Personeli" ,
