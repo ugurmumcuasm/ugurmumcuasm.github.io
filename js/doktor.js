@@ -97,7 +97,7 @@ var  docList  =  [
     } ,
     {
         "Birim" : "34.25.009" ,
-        "Doktor" : "DR.ATİLLA YALÇİN" ,
+        "Doktor" : "UZM.DR.GONCAGÜL BAYLAN" ,
         "ASÇ" : "BAHAR TANIRKAN" ,
         "Mesai" : {
                 "Pazartesi" : [ "08-13" , "13-14" , "14-17" , "-" ] ,
@@ -170,4 +170,5 @@ var  personelList  =  [
         "Ad" : "FATMA KESER"
     }
 ]
+
 
